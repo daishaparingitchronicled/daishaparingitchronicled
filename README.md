@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @daishaparingitchronicled
+- 👀 I’m interested in ... hiring talented engineers
+- 🌱 Our team is using ... Scala, Rust, Java
+- 📫 How to reach me ... daisha@chronicled.com
